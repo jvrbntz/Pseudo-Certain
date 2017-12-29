@@ -4,9 +4,9 @@ highlighter:      rouge
 
 # Setup
 title:            Pseudo-Certain
-tagline:          'A Jekyll theme'
-description:      'The <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> theme for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, refreshed.'
-url:              https://fongandrew.github.io/hydeout
+tagline:          'A personal blog'
+description:      'Presonal reflections at the intersection of medical education, science, and philosophy.'
+url:              https://jvrbntz.github.io/pseudo-certain
 baseurl:          # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
                   # If you want to move just the blog index pages but keep
@@ -15,7 +15,7 @@ baseurl:          # the optional subpath of your site, e.g. "/blog"
 
 author:
   name:           'Javier Benitez'
-  url:            https://twitter.com/fongandrewc
+  url:            https://twitter.com/jvrbntz
 
 paginate:         5
 # paginate_path:    '/page:num'
