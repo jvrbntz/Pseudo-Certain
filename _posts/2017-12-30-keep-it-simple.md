@@ -9,6 +9,6 @@ In keeping with the original Hyde theme, Hydeout aims to keep the overall design
 Hydeout makes heavy use of Flexbox in its CSS. If Flexbox is not available, the CSS degrades into a single column layout.
 
 <!-- 4:3 aspect ratio -->
-<div style="text-align: center; class="embed-responsive embed-responsive-4by3">
+<div class="embed-responsive embed-responsive-4by3">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/l2Of1-d5E5o" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 </div>
