@@ -10,5 +10,5 @@ Hydeout makes heavy use of Flexbox in its CSS. If Flexbox is not available, the 
 
 <!-- 4:3 aspect ratio -->
 <div class="embed-responsive embed-responsive-4by3">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/watch?v=l2Of1-d5E5o"></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/l2Of1-d5E5o" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 </div>
