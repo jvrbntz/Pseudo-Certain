@@ -1,7 +1,7 @@
 ---
 layout: "post"
 title: "The Dismissal of Science"
-date: "2018-01-14 22:01"
+date: "2018-01-17"
 tag: science education
 category: education science
 ---
