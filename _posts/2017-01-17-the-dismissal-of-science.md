@@ -4,7 +4,6 @@ title: "The Dismissal of Science"
 date: "2018-01-14 22:01"
 tag: science education
 category: education science
-excerpt_separator: <!--more-->
 ---
 
 In a recent article for theguardian Tegan Bennett Daylight writes:
@@ -23,7 +22,7 @@ History teaches us that learning how science works provides a better understandi
 
 This way of thinking and criticism of ideas has major implications in all aspects of our daily lives.[^4] Here is Stephen Pinker take on dismissing science and Academia:
 
-<div align= center class="embed-responsive embed-responsive-4by3">
+<div class="embed-responsive embed-responsive-4by3">
     <iframe width="560" height="315" class="embed-responsive-item" src="https://www.youtube.com/embed/4HRYVCIcbAg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
