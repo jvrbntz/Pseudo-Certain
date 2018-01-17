@@ -3,7 +3,7 @@ layout: "post"
 title: "The Dismissal of Science"
 date: "2018-01-17"
 tag: science education
-category: education science
+category: education
 ---
 
 In a recent article for theguardian Tegan Bennett Daylight writes:
