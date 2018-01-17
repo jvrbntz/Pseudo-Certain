@@ -24,7 +24,7 @@ This way of thinking and criticism of ideas has major implications in all aspect
 
 <div class="embed-responsive embed-responsive-4by3">
 
-    <iframe align= center width="560" height="315" class="embed-responsive-item" src="https://www.youtube.com/embed/4HRYVCIcbAg"></iframe>
+    <iframe align="center" width="560" height="315" class="embed-responsive-item" src="https://www.youtube.com/embed/4HRYVCIcbAg"></iframe>
     
 </div>
 
