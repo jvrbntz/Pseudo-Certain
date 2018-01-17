@@ -20,7 +20,7 @@ Spoon-feeding creates an educational environement without [desirable difficulty]
 
 History teaches us that learning how science works provides a better understanding how the world works and it also teaches us how we can benefit the most despite our limitations. Unfortunately, this is a lesson that keeps being ignored in major aspects of our lives, including education. This type of education does not acknowledge our limitations and keeps spoon-feeding isolated facts without teaching the process of how these facts come about. It is also important to note that science and democracy are complimentary to each other as both teach us to debate and search for truth in a systematic fashion.[^3]
 
-This way of thinking and criticism of ideas has major implications in all aspects of our daily lives.[^4] Here is Stephen Pinker take on dismissing science and Academia:
+This way of thinking and criticism of ideas has major implications in all aspects of our daily lives.[^4] Here is Stephen Pinker's take on dismissing science and Academia:
 
 <div class="embed-responsive embed-responsive-4by3">
 
