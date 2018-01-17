@@ -4,7 +4,6 @@ title: "The Story We Are Not Told"
 date: "2018-01-07 02:36"
 category: "science"
 tags: "science storytelling meme"
-excerpt_separator: <!--more-->
 ---
 
 
