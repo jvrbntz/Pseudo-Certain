@@ -3,7 +3,7 @@ layout: "post"
 title: "The Dismissal of Science"
 date: "2018-01-17"
 tag: science education
-category: education science
+category: education 
 ---
 
 In a recent article for theguardian Tegan Bennett Daylight writes:
@@ -25,9 +25,8 @@ This way of thinking and criticism of ideas has major implications in all aspect
 <div class="embed-responsive embed-responsive-4by3">
 
     <iframe align="center" width="560" height="315" class="embed-responsive-item" src="https://www.youtube.com/embed/4HRYVCIcbAg"></iframe>
-    
-</div>
 
+</div>
 
 
 [^1]: Daylight, T., ['The difficulty is the point': teaching spoon-fed students how to really read.'](https://www.theguardian.com/books/2017/dec/24/the-difficulty-is-the-point-teaching-spoon-fed-students-how-to-really-read), theguardian, December 23, 2017, Accessed January 16, 2018
