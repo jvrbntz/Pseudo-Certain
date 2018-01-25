@@ -1,7 +1,7 @@
 ---
 layout: "post"
 title: "Total Recall"
-date: "2018-01-17 17:33"
+date: "2018-01-24"
 ---
 
 <h3>Nonsense Syllables</h3>
