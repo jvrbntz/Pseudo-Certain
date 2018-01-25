@@ -13,7 +13,6 @@ When [Herman Ebbinghaus](https://en.wikipedia.org/wiki/Hermann_Ebbinghaus) perfo
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/ForgettingCurve.svg" alt="The Forgetting Curve" title="The Forgetting Curve">
 </div><br>
 
-
 After a piece of information gets learned and gets retrieved less frequently and time moves forward its access decreases. This information is not forgotten as it is commonly believed, but it becomes less accessible. An explanation might be that the brain "sees" no use in accessing this information which may be irrelevant in that particular setting and gives priority to more relevant information. It is also important to consider the accuracy of our memories since retrieval is not an exact process and our memories are reconstructed each time we recall pieces of information. There is also the case where performance can fool us, that is, when information has high retrieval strength and low storage strength. This may happen in settings where performance is increased and there is little to no [desirable difficulties](https://bjorklab.psych.ucla.edu/research/). The problem with retrieval of information with high retrieval strength and high storage strength is that it takes away time and effort from practicing relevant information that has become less accessible and encoding new relevant information. For more on the relationship between information, time, retrieval strength, and storage strength see Bjorks' [The New Theory of Disuse](https://bjorklab.psych.ucla.edu/research/).
 
 <div style="text-align: center">
