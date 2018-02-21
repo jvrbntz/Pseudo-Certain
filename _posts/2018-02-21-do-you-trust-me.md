@@ -43,8 +43,7 @@ It is unarguable that confirmation bias and publication bias complement each oth
 
 [^5]: Cohen, J. (1994). The earth is round (p < .05). American Psychologist, 49, 997-1003.
 
-[^6]: Gigerenzer, G., Mindless statistics., The Journal of Socio-Economics
-Volume 33, Issue 5, November 2004, Pages 587-606
+[^6]: Gigerenzer, G., Mindless statistics., The Journal of Socio-Economics, Volume 33, Issue 5, November 2004, Pages 587-606
 
 [^7]: Abbott, E., (2017) Trends in P Value, Confidence Interval, and Power Analysis Reporting in Health Professions Education Research Reports: A Systematic Appraisal. Academic Medicine. Academic Medicine: February 2018 - Volume 93 - Issue 2 - p 314–323, DOI: 10.1097/ACM.0000000000001773
 
