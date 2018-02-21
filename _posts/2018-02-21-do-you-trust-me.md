@@ -30,8 +30,8 @@ It is unarguable that confirmation bias and publication bias complement each oth
 >as with every human enterprise, [science's] integrity can be threatened by political pressure, by commercial interests, or by simple vanity, greed, or pride.[^12]
 
 
-
-#### Reference:
+<br>
+#### References:
 
 [^1]: Kahneman, D., Thinking, Fast and Slow., 2011
 
