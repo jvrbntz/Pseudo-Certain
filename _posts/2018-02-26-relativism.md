@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "It's relativism, no one is wrong, we are all right."
+title: "It's relativism, no one is wrong, we are all right"
 date: "2018-02-26"
 ---
 Mental processes are some of the most challenging topics to talk about, like learning, these unobservable events must be inferred from observable behavior. Although some people might acknowledge that mental processes do occur they abstain from theorizing about these unobservable phenomena. Cognitive scientists, on the other hand, have provided a scientific language and methodologies to help explore these events since the [cognitive revolution](https://en.wikipedia.org/wiki/Cognitive_revolution) which happened in the 1950’s. One of the major contributions from this revolution, thanks to [cognitive science](https://en.wikipedia.org/wiki/Cognitive_science), [philosophy](https://plato.stanford.edu/entries/computational-mind/), and others, is the approach of the brain as an [information processing organ/system](http://www.jvrbntz.com/2017/09/tool-for-processing-signal-to-noise.html) which gives rise to the mind. According to [Steven Pinker](https://en.wikipedia.org/wiki/Steven_Pinker),
